@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which language is most commonly used for machine learning?",
+    "options": ["1. Java", "2. Python", "3. C++", "4. C#"],
+    "correct": 2
+  },
+  {
+    "question": "Which language is mainly used for web development?",
+    "options": ["1. Java", "2. Python", "3. C++", "4. PHP"],
+    "correct": 4
+  },
+  {
+    "question": "Which language is known for its simplicity and readability?",
+    "options": ["1. Python", "2. Assembly", "3. C", "4. Java"],
+    "correct": 1
+  },
+  {
+    "question": "Which language is primarily used for Android app development?",
+    "options": ["1. Swift", "2. Python", "3. Java", "4. Ruby"],
+    "correct": 3
+  },
+  {
+    "question": "Which language is mainly used for iOS development?",
+    "options": ["1. Java", "2. Kotlin", "3. Swift", "4. Python"],
+    "correct": 3
+  },
+  {
+    "question": "Which language is commonly used for data analysis?",
+    "options": ["1. C#", "2. Java", "3. Python", "4. Assembly"],
+    "correct": 3
+  },
+  {
+    "question": "Which language is used to style web pages?",
+    "options": ["1. HTML", "2. CSS", "3. JavaScript", "4. PHP"],
+    "correct": 2
+  },
+  {
+    "question": "Which language runs in the browser?",
+    "options": ["1. Python", "2. Java", "3. C++", "4. JavaScript"],
+    "correct": 4
+  },
+  {
+    "question": "Which language is best known for system programming?",
+    "options": ["1. Python", "2. C", "3. Ruby", "4. PHP"],
+    "correct": 2
+  },
+  {
+    "question": "Which language is used for querying databases?",
+    "options": ["1. SQL", "2. Python", "3. Java", "4. C++"],
+    "correct": 1
+  }
+]
