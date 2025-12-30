@@ -1,10 +1,10 @@
 # 🎓 Quizificate
 
-### Video Demo: https://youtu.be/aPzX14sKnLQ
-
 <div align="center">
   <img src="01.png" width="500">
 </div>
+
+### Video Demo: https://youtu.be/aPzX14sKnLQ
 
 
 Quizificate is a Python-based quiz application that tests users on programming language knowledge and rewards successful participants with a personalized PDF certificate.
